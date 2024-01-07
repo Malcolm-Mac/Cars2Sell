@@ -1,0 +1,6 @@
+.nav_link{
+    cursor: pointer;
+}
+.nav_link_mob:hover{
+    color: white;
+}

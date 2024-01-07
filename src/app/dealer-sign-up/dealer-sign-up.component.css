@@ -1,0 +1,15 @@
+.main_button_new:hover, .button:hover{
+    color: white;
+}
+
+.message_div{
+    color: red;
+}
+
+.logo_link-2{
+    cursor: pointer;
+}
+
+.main_button_portal:hover,.button_red:hover{
+    color: white;
+}
